@@ -1,9 +1,6 @@
-## Olá, eu sou o Jeezreel!
+## 
+Olá, meu nome é jeezreel. sou natural de ribeirão preto, e atualmente moro em pontal. Estou me desenvolvendo como profissional de T.I, atualmente curso Analíse e Desenvolvimento de Sistemas na UNIP, e busco aprender as novas ferramentas de tecnologia. 
 
-
-- 🔭 Hoje eu trabalho como T.I
-- 🌱 Estudando java e outras linguagens
-- 📫 contate-me no email: jeesreelgui@gmail.com
 
 <div style="display: inline_block"><br>
 
