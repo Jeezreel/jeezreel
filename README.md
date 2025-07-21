@@ -4,7 +4,6 @@
 - 🔭 Hoje eu trabalho como T.I
 - 🌱 Estudando java e outras linguagens
 - 📫 contate-me no email: jeesreelgui@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
 
