@@ -1,5 +1,5 @@
 ## Futuro Desenvolvedor FullStack
-Olá, meu nome é jeezreel. sou natural de ribeirão preto, e atualmente moro em pontal. Estou me desenvolvendo como profissional de T.I, atualmente curso Analíse e Desenvolvimento de Sistemas na UNIP, e busco aprender as novas ferramentas de tecnologia. 
+Olá, meu nome é jeezreel. sou natural de ribeirão preto, e atualmente moro em pontal. Estou me desenvolvendo como profissional de T.I, atualmente curso Analíse e Desenvolvimento de Sistemas na Anhanguera, e busco aprender as novas ferramentas de tecnologia. 
 
 
 <div style="display: inline_block"><br>
